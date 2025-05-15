@@ -1,4 +1,4 @@
-![HQ graphic](https://github.com/Lanceowesalot/Mars-News/blob/main/Images/Mars%20Image.png)
+![HQ graphic](https://github.com/Lanceowesalot/credit-risk-classification/blob/main/Credit_Risk/credit%20risk.jpg)
 
 # Credit Risk Analysis
 
